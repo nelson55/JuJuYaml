@@ -1,0 +1,5 @@
+nova-compute:
+  enable-live-migration: True
+  enable-resize: True
+  migration-auth-type: ssh
+  virt-type: qemu

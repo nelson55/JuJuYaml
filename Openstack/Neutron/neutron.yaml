@@ -1,0 +1,4 @@
+neutron-gateway:
+  ext-port: 'eth1'
+neutron-api:
+  neutron-security-groups: True
